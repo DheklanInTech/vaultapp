@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/**/*.js": {
-      "runtime": "@vercel/python@3.9"
+      "runtime": "now-php@1.0.0"
     }
   },
   "routes": [
